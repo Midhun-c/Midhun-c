@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- README FILE CODE -->
 
-<!--
-**Midhun-c/Midhun-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
+<h2 align=center>👋 Good to have you here!!</h2>
+
+
+<!--ABOUT ME CODE-->
+🌱 **About myself**<br>
+
+✔️ I am **Midhun**, a passionate Software Developer and a CSE graduate from KRCE. <br>
+
+✔️ My interests lie in development, and I've had the pleasure of contributing to various open-source organizations. Problem-solving is another arena I really enjoy and love to engage in. <br>
+
+✔️ With solid experience in full-stack web development, I thrive on creating and enhancing web applications. <br>
+
+✔️ I've actively participated in numerous open-source events, which have enriched my skills and expanded my network. <br>
+
+✔️ Let's connect and collaborate!
+
+<br>
+
+
+<!-- SOCAIL MEDIA HANDLES -->
+[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhun-c/)](https://www.linkedin.com/in/midhun-c/)
+
+<hr>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
+---
+
+<!-- STATISTICS ABOUT PROFILE -->
+
+ 📶 Stats:<br><br>
+ 
+ 
+<!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-c&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ---
+ 
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/Midhun-c/count.svg?align=center)
+
+ --- 
+ ---
+ 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/midhun3?ext=contest&theme=dark)](https://leetcode.com/midhun3)
+ <hr>
+ 
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Midhun-c&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+         
+
+---
+  </code>
+</p>
+
+
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=riti2409&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
+<center><img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%"></center>
+
+
+
+
+ -->
