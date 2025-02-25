@@ -22,8 +22,7 @@
 <br>
 
 
-<!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhun-c/)](https://www.linkedin.com/in/midhun-c/)
+
 
 <hr>
 
